@@ -12,3 +12,4 @@ O projeto surge como um desafio proposto durante o bootcamp, visando a criação
 ## 🚀 Resultados
 
 Abaixo, encontra-se a planilha inteligente criada a partir das aulas.
+https://github.com/TheRealminds/PlanilhaInteligente/blob/main/PlanilhaInteligente
